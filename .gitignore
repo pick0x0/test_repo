@@ -3,6 +3,6 @@
 __pycache__
 myvenv
 db.sqlite3
-landig.db
+landing.db
 /static
 .DS_Store
